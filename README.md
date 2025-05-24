@@ -1,4 +1,4 @@
-## Laboratory work IV:
+##Лабораторная работа 4
 
 Переделан CMakeLists.txt:
 ```sh
